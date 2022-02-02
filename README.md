@@ -4,4 +4,4 @@ Testing the keyword releaser action
 
 Fixed entry point for action 
 
-POST TO API RELEASE 11
+POST TO API RELEASE 12
