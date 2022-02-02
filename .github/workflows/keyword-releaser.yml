@@ -9,6 +9,6 @@ jobs:
     - uses: actions/checkout@v1
     - uses: iniguezfelix/GitHub_Actions@main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       with:
         args: 'FIXED'
