@@ -2,4 +2,4 @@
 
 Testing the keyword releaser action
 
-Fixed entry point for action 5
+Fixed entry point for action 6
